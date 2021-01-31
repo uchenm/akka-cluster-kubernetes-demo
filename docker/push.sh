@@ -1,0 +1,1 @@
+docker push  docker.pat.io/akka-cluster-kubernetes-demo:1.0
